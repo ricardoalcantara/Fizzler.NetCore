@@ -1,0 +1,67 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Fizzler Extension for HtmlAgilityPack for .NET Core",
+  "authors": [ "Ricardo Alcantara" ],
+  "packOptions": {
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/ricardoalcantara/Fizzler.NetCore"
+    },
+    "tags": [
+      "HTML",
+      "parse",
+      "selector",
+      "w3c",
+      "css",
+      "netcore"
+    ],
+    "projectUrl": "https://github.com/ricardoalcantara/Fizzler.NetCore",
+  },
+
+  "buildOptions": {
+  },
+
+  "dependencies": {
+	"Fizzler": "1.0.0",
+	"DevZH.HtmlAgilityPack": "1.4.9.4-*"
+  },
+
+  "frameworks": {
+    "net20": {
+		"frameworkAssemblies": {
+			"System.Xml": "4.0.0.0"
+		}
+    },
+    "net40": {
+		"frameworkAssemblies": {
+			"System.Xml": "4.0.0.0"
+		}
+    },
+    "net451": {
+		"frameworkAssemblies": {
+			"System.Xml": "4.0.0.0"
+		}
+    },
+    "netstandard1.3": {
+      "dependencies": {
+        "NETStandard.Library": "1.6.0-*",
+        "System.Collections.NonGeneric": "4.0.1-*",
+        "System.Diagnostics.StackTrace": "4.0.1-*",
+        "System.Diagnostics.TraceSource": "4.0.0-*",
+        "System.Xml.XPath": "4.0.1-*",
+        "System.Xml.XPath.XmlDocument": "4.0.1-*",
+        "System.Xml.XmlDocument": "4.0.1-*"
+      }
+    },
+    "netstandard1.5": {
+      "dependencies": {
+        "NETStandard.Library": "1.5.0-*"
+      }
+    },	
+    "netstandard1.6": {
+      "dependencies": {
+         "NETStandard.Library": "1.6.0"
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Fizzler for .NET Core",
+  "authors": [ "Ricardo Alcantara" ],
+  "packOptions": {
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/ricardoalcantara/Fizzler.NetCore"
+    },
+    "tags": [
+      "HTML",
+      "parse",
+      "selector",
+      "w3c",
+      "css",
+      "netcore"
+    ],
+    "projectUrl": "https://github.com/ricardoalcantara/Fizzler.NetCore",
+  },
+
+  "buildOptions": {
+  },
+
+  "dependencies": {
+  },
+
+  "frameworks": {
+    "net20": {
+		"dependencies" : {
+			"LinqBridge": "1.3.0"
+		}
+    },
+    "net40": {
+		"frameworkAssemblies": {
+			"System.Xml": "4.0.0.0"
+		}
+    },
+    "net451": {
+      "frameworkAssemblies": {
+        "System.Xml": "4.0.0.0"
+      },
+      "dependencies": {
+        "System.Runtime.Serialization.Primitives": "4.1.1"
+      }
+    },
+    "netstandard1.3": {
+      "dependencies": {
+        "NETStandard.Library": "1.6.0-*",
+        "System.Collections.NonGeneric": "4.0.1-*",
+        "System.Diagnostics.StackTrace": "4.0.1-*",
+        "System.Diagnostics.TraceSource": "4.0.0-*",
+        "System.Xml.XPath": "4.0.1-*",
+        "System.Xml.XPath.XmlDocument": "4.0.1-*",
+        "System.Xml.XmlDocument": "4.0.1-*",
+        "System.Runtime.Serialization.Primitives": "4.1.1"
+      }
+    },
+    "netstandard1.5": {
+      "dependencies": {
+        "NETStandard.Library": "1.5.0-*",
+        "System.Runtime.Serialization.Primitives": "4.1.1"
+      }
+    },	
+    "netstandard1.6": {
+      "dependencies": {
+        "NETStandard.Library": "1.6.0",
+        "System.Runtime.Serialization.Primitives": "4.1.1"
+      }
+    }
+  }
+}

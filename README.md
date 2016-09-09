@@ -11,12 +11,12 @@ It would be nice to create some unit tests.
 - **.NET 4.5.1** Fully
 - **.NET Standard**
     - **1.3** 
-        - Fully but HtmlDocumentExtensions is different than the origin. [Code](src/Fizzler.NetCore/src/Fizzler.Systems.HtmlAgilityPack/HtmlDocumentExtensions.cs#L86)
-        - Fully but NamespacePrefix  is different than the origin. [Code](src/Fizzler.NetCore/src/Fizzler/NamespacePrefix.cs#L30)
+        - Fully but HtmlDocumentExtensions is different than the origin. [Code](src/Fizzler.NetCore/src/RSA.Fizzler.Systems.HtmlAgilityPack/HtmlDocumentExtensions.cs#L86)
+        - Fully but NamespacePrefix  is different than the origin. [Code](src/Fizzler.NetCore/src/RSA.Fizzler/NamespacePrefix.cs#L30)
     - **1.5** 
-        - Fully but HtmlDocumentExtensions is different than the origin. [Code](src/Fizzler.NetCore/src/Fizzler.Systems.HtmlAgilityPack/HtmlDocumentExtensions.cs#L86)
-        - Fully but NamespacePrefix  is different than the origin. [Code](src/Fizzler.NetCore/src/Fizzler/NamespacePrefix.cs#L30)
+        - Fully but HtmlDocumentExtensions is different than the origin. [Code](src/Fizzler.NetCore/src/RSA.Fizzler.Systems.HtmlAgilityPack/HtmlDocumentExtensions.cs#L86)
+        - Fully but NamespacePrefix  is different than the origin. [Code](src/Fizzler.NetCore/src/RSA.Fizzler/NamespacePrefix.cs#L30)
     - **1.6** 
-        - Fully but HtmlDocumentExtensions is different than the origin. [Code](src/Fizzler.NetCore/src/Fizzler.Systems.HtmlAgilityPack/HtmlDocumentExtensions.cs#L86)
-        - Fully but NamespacePrefix  is different than the origin. [Code](src/Fizzler.NetCore/src/Fizzler/NamespacePrefix.cs#L30)
+        - Fully but HtmlDocumentExtensions is different than the origin. [Code](src/Fizzler.NetCore/src/RSA.Fizzler.Systems.HtmlAgilityPack/HtmlDocumentExtensions.cs#L86)
+        - Fully but NamespacePrefix  is different than the origin. [Code](src/Fizzler.NetCore/src/RSA.Fizzler/NamespacePrefix.cs#L30)
 

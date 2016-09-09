@@ -1,5 +1,5 @@
 # Fizzler.NetCore
-This project is a port of [Fizzler project](https://github.com/ricardoalcantara/Fizzler)
+This project is a port of [Fizzler project](https://github.com/atifaziz/Fizzler) to .NET Core.
 
 ## What is missing?
 It would be nice to create some unit tests.

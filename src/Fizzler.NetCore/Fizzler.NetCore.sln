@@ -10,13 +10,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		global.json = global.json
 	EndProjectSection
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Fizzler", "src\Fizzler\Fizzler.xproj", "{A2362D54-DB7D-4F71-910B-E97804871BBB}"
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Fizzler.Systems.HtmlAgilityPack", "src\Fizzler.Systems.HtmlAgilityPack\Fizzler.Systems.HtmlAgilityPack.xproj", "{1C968675-B525-4B49-A542-E01EE2956427}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B0B39A35-6B97-4A53-8DAE-FCF5864DC3E7}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Fizzler.Systems.HtmlAgilityPack.Test", "test\Fizzler.Systems.HtmlAgilityPath.Test\Fizzler.Systems.HtmlAgilityPack.Test.xproj", "{3925486C-8EF1-41A1-9556-D88851614EB1}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RSA.Fizzler", "src\RSA.Fizzler\RSA.Fizzler.xproj", "{A2362D54-DB7D-4F71-910B-E97804871BBB}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RSA.Fizzler.Systems.HtmlAgilityPack", "src\RSA.Fizzler.Systems.HtmlAgilityPack\RSA.Fizzler.Systems.HtmlAgilityPack.xproj", "{1C968675-B525-4B49-A542-E01EE2956427}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RSA.Fizzler.Systems.HtmlAgilityPack.Test", "test\RSA.Fizzler.Systems.HtmlAgilityPath.Test\RSA.Fizzler.Systems.HtmlAgilityPack.Test.xproj", "{3925486C-8EF1-41A1-9556-D88851614EB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

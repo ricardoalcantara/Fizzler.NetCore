@@ -4,10 +4,10 @@
 
   "dependencies": {
 	"DevZH.HtmlAgilityPack": "1.4.9.4-*",
-	"Fizzler": {
+	"RSA.Fizzler": {
       "target": "project"
     },
-	"Fizzler.Systems.HtmlAgilityPack": {
+	"RSA.Fizzler.Systems.HtmlAgilityPack": {
       "target": "project"
     },
     "dotnet-test-xunit": "2.2.0-*",
